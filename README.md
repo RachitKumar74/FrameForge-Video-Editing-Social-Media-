@@ -2,7 +2,7 @@
 
 FrameForge is a modern and responsive **Video Editing & Social Media Marketing Portfolio Website** designed to showcase creative video editing work and digital content services.
 
-The website provides an interactive portfolio where visitors can browse different types of video edits, preview videos, explore services, and get in touch through the contact section.
+The website provides an interactive portfolio where visitors can browse different types of video edits, preview videos, explore services, and get in touch through the contact section.This project is part of Vaultsofcode internship.
 
 ## 🚀 Features
 
